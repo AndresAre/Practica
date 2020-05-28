@@ -15,6 +15,8 @@ public class JavaApplicationGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Mi nombre es Alejandro Sasroque Rincon");
+        
         // TODO code application logic here
     }
     
