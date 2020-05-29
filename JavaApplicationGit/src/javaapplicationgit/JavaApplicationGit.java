@@ -17,13 +17,10 @@ public class JavaApplicationGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Este es mi primer repositorio \n"); // aqui aplicamos una salida por pantalla con un mensaje de texto
-        
-        System.out.println("Mi nombre es Alejandro Sasroque Rincon");
-        System.out.println("Mi compañero es Andres Arenas");
-        
+      
         // TODO code application logic here
-        
+        System.out.println("Arenas y Sastoque");
+        System.out.println("Ya pude arreglar el repositorio para unificar las ramas");
     }
     
 }
