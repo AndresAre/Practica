@@ -1,3 +1,3 @@
 # Algoritmos
 
-Arenas y Sastoque
+Andres Felipe Arenas y Fabio Alejandro Sastoque
